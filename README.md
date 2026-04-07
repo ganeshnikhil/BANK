@@ -290,14 +290,3 @@ New Balance = ₹10,400
 ## 📜 License
 
 This project is for educational purposes.
-
----
-
-If you want, I can **upgrade this README further** with:
-
-* 🔥 GitHub badges (build, coverage)
-* 📸 Screenshots of UI
-* 🧪 CI/CD pipeline (GitHub Actions)
-* 🧠 Architecture diagram (very useful for placements)
-
-Just tell me 👍
