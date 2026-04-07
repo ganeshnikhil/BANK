@@ -1,7 +1,3 @@
-Here’s a **clean, professional, and interactive README.md** version of your project, properly structured for GitHub:
-
----
-
 # 🏦 Bank Management System
 
 **Version:** 1.0
